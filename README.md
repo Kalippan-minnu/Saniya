@@ -1,152 +1,155 @@
-#### UPDATE : REPLIT ADDED SO THERES NO NEED OF TERMUX🔥 COPY THE SESSION AND PASTE IN SESSION.JSON
+<a href="https://github.com/aju001"><img src="https://fontmeme.com/permalink/211121/32108414fe61d225739702fe3b4c0784.png" alt="google-font" border="0"></a>
+<div align="center">
 
-#### NB : THERE ARE SLIGHT CHANGES IN THE DEPLOYING METHOD COMPARING WITH COMMON ASEENA BOT . SO WATCH THE VIDEO  FULLY THAT I HAVE UPLOADED BY [` CLICKING HERE`](https://youtube.com/channel/UCk4uZXPnYwPSo2YlQECp1RA) OR ELSE MOST PROBABLY YOU WILL GET ERROR !
 
 
 
 <div align="center">
-<img src="Aju.jpg" alt="aju" width="200" />
-
-## 🚀AJU SER🚀 
+  <a href="https://ibb.co/4wyvT9j"><img src="https://i.ibb.co/Y2mXdR5/ajuser.jpg""width="300" height="300"/>
+    <p align="center">
+    
+    
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=000EF7&lines=Welcome+to+Ajuser+WA+Bot...;Created+by+Aju....;This+is+a+Bgm+stickerbot...;With+more+features...)](https://git.io/typing-svg)
+  
+<a href="#"><img title="Ajuser_v2" src="https://img.shields.io/badge/-Ajuser-blue?&style=for-the-badge"></a>
+</p>
+  </p>
+<p align="center">
+<a href="https://github.com/aju001"><img title="aju" src="https://img.shields.io/badge/author-aju001?color=black&style=for-the-badge&logo=github"></a>
 
 </div>
-
 <p align="center">
-<a href="##"><img title="SELF-BOT" src="https://img.shields.io/static/v1?label=Language&message=English&color=blue"></a>
-</p>
-<p align="center">
- <a href="https://github.com/aju001"><img title="Author" src="https://img.shields.io/badge/Author-Aju-blue.svg?style=for-the-badge&logo=github" /></a>  <a href="https://Wa.me/+917994873071?text=Hello%20Aju%20Bro🌝...fen%20boi%20aan😌💝"><img title="Author" src="https://img.shields.io/badge/Owner-Aju-blue.svg?style=for-the-badge&logo=whatsapp" /></a>
-<p align="center">
-<a href="https://chat.whatsapp.com/HebsCx7CBxMJBLqyeHemcO"><img title="Author" src="https://img.shields.io/badge/Watsapp-Group-blue.svg?style=for-the-badge&logo=whatsapp" /></a> <a href="https://youtube.com/channel/UCk4uZXPnYwPSo2YlQECp1RA"><img title="Author" src="https://img.shields.io/badge/Youtube-AJUSER-blue.svg?style=for-the-badge&logo=youtube" /></a>
+Project created by <a href="https://github.com/aju001">aju</a> to make it public
+    <br>
+       | © |
+        Reserved |
+    <br> 
 </p>
 
-
-  ### Simple Method
-  
-  
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@aju0011/A-J-U-QR?v=1)
-
-<a href="https://github.com/aju001"><img src="https://i.ibb.co/QKLkFh5/1.jpg" alt="2" width="600"></a>
-
-## 🚀
-
-<a href="https://github.com/aju001"><img src="https://i.ibb.co/Ms57pyC/2.jpg" alt="2" width="600"></a>
-
-## ERROR FIX IT YOURSELF
-
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/aju001/AJU-SER) 
-
-
-# Requirements
-* [Node.js](https://nodejs.org/en/)
-* [Git](https://git-scm.com/downloads)
-* [FFmpeg](https://github.com/BtbN/FFmpeg-Builds/releases/download/autobuild-2020-12-08-13-03/ffmpeg-n4.3.1-26-gca55240b8c-win64-gpl-4.3.zip)
-* [Libwebp](https://developers.google.com/speed/webp/download)
-* Any text editor
-
-## `ADD BUILDPACK`
-
-```
-https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest
-https://github.com/clhuang/heroku-buildpack-webp-binaries.git
-https://github.com/DuckyTeam/heroku-buildpack-imagemagick
-heroku/nodejs
-```
-
-## `CHANGE SESSION`
-
-[`Click Here`](https://github.com/aju001/AJU-SER/blob/master/session.json#L1)
-
-## `SETTING`
-
-- CHANGE OWNER NUMBER [Here](https://github.com/aju001/AJU-SER/blob/master/index.js#L136)
-- CHANGE OWNER NAME [Here](https://github.com/aju001/AJU-SER/blob/master/index.js#L138)
-
-# Installation
-## Clone Repo & Installation dependencies
-```bash
-🚀 git clone https://github.com/aju001/AJU-SER.git
-🚀 cd AJU-SER
-🚀 npm start
-```
-## For Termux
-```bash
-🚀 apt update
-🚀 apt upgrade
-🚀 pkg update && pkg upgrade 
-🚀 pkg install bash
-🚀 pkg install libwebp
-🚀 pkg install git -y
-🚀 pkg install nodejs -y 
-🚀 pkg install ffmpeg -y 
-🚀 pkg install wget
-🚀 pkg install imagemagick -y
-🚀 git clone https://github.com/aju001/AJU-SER
-🚀 cd AJU-SER
-🚀 ls
-🚀 rm -rf session.json
-🚀 npm install
-🚀 npm start
-🚀 scan qr code within 15seconds
-```
-
-
-
-## Connect With Me
-My Personal Chat👇
-<p align="center">
- <a href="https://wa.me/+917994873071"><img alt="WhatsApp Personal Chat" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=black"/></a>
-</p>
-
-My Whatsapp Group👇
-<p align="center">
- <a href="https://chat.whatsapp.com/HebsCx7CBxMJBLqyeHemcO"><img alt="WhatsApp Group" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=black"/></a>
-</p>
-
-* [`My Youtube Channel`](https://youtube.com/channel/UCk4uZXPnYwPSo2YlQECp1RA)
-
-### ⚠ Warning ⚠
-
-```
-By using kick, add, promote, demote Commands, Your WhatsApp account may be banned.
-Aju Sir or we are not responsible for your account, 
-This bot is intended for the purpose of having fun with some fun commands 
-and group management with some helpfull commands.
-
-If  you ended up spamming groups, getting reported left and right, 
-and you ended up in being fight with WhatsApp
-and at the end WhatsApp Team deleted your account. DON'T BLAME US.
-
-No personal support will be provided / We won't spoon feed you. 
-If you need help
-you can contact us 
-```
+----
 
   <p align="center">
-  <a href="https://github.com/aju001/AJU-SER">
-    
-<a href="https:https://github.com/aju001?tab=followers">
-<img src="https://img.shields.io/github/repo-size/aju001/AJU-SER?color=green&label=Repo%20total%20size&style=plastic">
+  <a href="https://github.com/aju001/Ajuser_v2 ">
+    <img src="https://img.shields.io/github/repo-size/aju001/Ajuser_v2?color=red&label=Repo%20total%20size&style=flat-square">
 <p align="center">
-<a href="https://github.com/aj001/followers"
-<img title="Followers" src="https://img.shields.io/github/followers/pepesir?color=blue&style=flat-square"></a>
-<a href="https://github.com/aju001/AJU-SER/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/aju001/AJU-SER?color=blue&style=flat-square"></a>
-<a href="https://github.com/aju001/AJU-SER/network/members"><img title="Forks" src="https://img.shields.io/github/forks/aju001/AJU-SER?color=blue&style=flat-square"></a>
-<a href="https://github.com/aju001/AJU-SER/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/pepesir/AJU-SER?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/aju001/followers"><img title="Followers" src="https://img.shields.io/github/followers/aju001?color=grey&style=plastic"></a>
+<a href="https://github.com/aju001/Ajuser_v2/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/aju001/Ajuser?color=grey&style=plastic"></a>
+<a href="https://github.com/aju001/Ajuser_v2/network/members"><img title="Forks" src="https://img.shields.io/github/forks/aju001/Ajuser_v2?color=grey&style=plastic"></a>
+<a href="https://github.com/aju001/Ajuser_v2/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/aju001/Ajuser_v2?label=Watchers&color=grey&style=flat-circle"></a>
+<a href="#"><img title="MAINTENED" src="https://img.shields.io/badge/UNMAINTENED-YES-red.svg"</a>
+<h3 align="center">Contact Me:</h3>
+
+</p>
+    
+<p align="center">
+
+<a href="https://instagram.com/__ajuz___001?utm_medium=copy_link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="kyrie.baran" height="30" width="40" /></a>
+
 </p>
 
+<h4 align="center">Support Video For Deploy Bot:</h4>
+
 <p align="center">
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aju001&show_icons=true&theme=dark&locale=en" alt="aju001" /></p>
+
+<a href="https://youtu.be/MPoRRTkjuW0" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Logo_of_YouTube_%282015-2017%29.svg/1200px-Logo_of_YouTube_%282015-2017%29.svg.png" height="45" width="90" /></a>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aju001&show_icons=true&theme=dark&locale=en" alt="aju" /></p>
     
-  <div align="center">
-       
-  ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=aju001&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)
-  </div>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aju001&theme=dark" alt="aju" /></p>
+</p>
+    
+```
+    
+Ajuser Userbot is Open Source software open to development. 
+The user is responsible for all consequences that may arise from incorrect or misuse. 
+Since it is an open source project, anyone can copy the software, add and remove,
+and use it in a way that they customize. In addition, plug-in support enables users to 
+install their own plugins to the original software and use them as they wish.
+Using the bot out of purpose will explicitly ban you.
+Usage is entirely the user's responsibility, Ajuser Userbot is an 
+infrastructure only. Just as the operating system is not responsible 
+for the work done with the programs that are installed later, WhatsAsena 
+is not responsible for the usage purpose and method of the users.
+Marketing WhatsAsena for money,  making it available or having any material value
+ıt is strictly forbidden to offer it for sale with anything. All legal investigations that may arise
+the user is responsible..
+```
+
+
+## Setup
+<div align="center">
+
+  ### <u> Simple Method <u>
+  
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@aju0011/Ajuser-Qr)
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/aju001/Ajuser)
+     </div>
+     [![Run on Repl.it](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)](https://bit.ly/2XqQKMU)
  
+ <div align="left">
+    
 
-  [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://chat.whatsapp.com/HebsCx7CBxMJBLqyeHemcO)
 
-# Thanks To
-* [`Aju`](https://github.com/aju001)
-* [`Baileys`](https://github.com/adiwajshing/Baileys)
-* [`Xeon`](https://github.com/DGXeon)
+If Repl.it not working Try Termux for Qr scanning.Just Copy the Link Below in Termux
+```
+bash <(curl -L https://t.ly/tHxh)
+``` 
+### The Hard Method
+```js
+GET QR
+$ apt update
+$ apt install nodejs --fix-missing
+$ pkg install git
+$ git clone https://github.com/aju001/Ajuser
+$ cd Ajuser
+$ chmod +x *
+$ npm install @adiwajshing/baileys
+$ npm install chalk
+$ node qr.js
+```
+      
+```js
+SETUP
+$ git clone https://github.com/aju001/Ajuser
+$ cd Ajuser
+$ chmod +x *
+$ npm i
+$ node qr.js
+   // scan the qr using whatsapp web on your phone
+$ node bot.js
+```
+# 📢 Guide
+<div align="center">
+Click WA logo to Join Support Group 👇
+    <br>
+<br>
+
+<a href="https://chat.whatsapp.com/HebsCx7CBxMJBLqyeHemcO"><img title="join support" src="https://img.shields.io/badge/join_support-afnanplk/pinkymwol?color=black&style=for-the-badge&logo=whatsapp"></a>
+  <div align="center">
+
+
+
+### ⚠️ Warning! 
+```
+Due to Userbot;  Your WhatsApp account may be banned.
+This is an open source project,you are responsible for everything you do. 
+Absolutely, Asena executives do not accept responsibility.
+By establishing the Asena, you are deemed to have accepted these responsibilities.
+```
+  
+## Developers
+  <div align="center">
+    
+  [![aju](https://github.com/aju001.png?size=100)](https://github.com/aju001)
+
+[aju](https://github.com/aju001)  
+Base, Bug Fixed Modifiying  as   public | Bug Fixes, Modules
+  </div>
+
+
+## License
+This project is protected by `GNU General Public Licence v3.0` license.
+
+### Disclaimer
+`WhatsApp` name, its variations and the logo are registered trademarks of Facebook. We have nothing to do with the registered trademark

@@ -11,11 +11,11 @@
     
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=000EF7&lines=Welcome+to+Kalippanser+WA+Bot...;Created+by+Midhun....;This+is+a+Bgm+stickerbot...;With+more+features...)](https://git.io/typing-svg)
   
-<a href="#"><img title="Saniyamol" src="https://img.shields.io/badge/-Ajuser-blue?&style=for-the-badge"></a>
+<a href="#"><img title="Saniyamol" src="https://img.shields.io/badge/-Saniya-blue?&style=for-the-badge"></a>
 </p>
   </p>
 <p align="center">
-<a href="https://github.com/Kalippan-minnu"><img title="Midhun" src="https://img.shields.io/badge/author-aju001?color=black&style=for-the-badge&logo=github"></a>
+<a href="https://github.com/Kalippan-minnu"><img title="Midhun" src="https://img.shields.io/badge/author-Kalippan-minnj?color=black&style=for-the-badge&logo=github"></a>
 
 </div>
 <p align="center">
@@ -141,9 +141,9 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 ## Developers
   <div align="center">
     
-  [![aju](https://github.com/aju001.png?size=100)](https://github.com/aju001)
+  [![Midhun](https://github.com/Kalippan-minnu.png?size=100)](https://github.com/Kalippan-minnu)
 
-[aju](https://github.com/aju001)  
+[Midhun](https://github.com/Kalippan-minnu)  
 Base, Bug Fixed Modifiying  as   public | Bug Fixes, Modules
   </div>
 

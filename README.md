@@ -29,13 +29,13 @@ Project created by <a href="https://github.com/Kalippan-minnu">Midhun</a> to mak
 ----
 
   <p align="center">
-  <a href="https://github.com/aju001/Ajuser_v2 ">
-    <img src="https://img.shields.io/github/repo-size/aju001/Ajuser_v2?color=red&label=Repo%20total%20size&style=flat-square">
+  <a href="https://github.com/Kalippan-minnu/Saniya ">
+    <img src="https://img.shields.io/github/repo-size/Kalippan_minnu/saniya?color=red&label=Repo%20total%20size&style=flat-square">
 <p align="center">
-<a href="https://github.com/aju001/followers"><img title="Followers" src="https://img.shields.io/github/followers/aju001?color=grey&style=plastic"></a>
-<a href="https://github.com/aju001/Ajuser_v2/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/aju001/Ajuser?color=grey&style=plastic"></a>
-<a href="https://github.com/aju001/Ajuser_v2/network/members"><img title="Forks" src="https://img.shields.io/github/forks/aju001/Ajuser_v2?color=grey&style=plastic"></a>
-<a href="https://github.com/aju001/Ajuser_v2/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/aju001/Ajuser_v2?label=Watchers&color=grey&style=flat-circle"></a>
+<a href="https://github.com/Kalippan-minnu/followers"><img title="Followers" src="https://img.shields.io/github/followers/Kalippan-minnu?color=grey&style=plastic"></a>
+<a href="https://github.com/Kalippan-minnu/Saniya/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Kalippan-minnu/saniya?color=grey&style=plastic"></a>
+<a href="https://github.com/Kalippan-minnu/Saniya/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Kalippan-minnu/saniya2?color=grey&style=plastic"></a>
+<a href="https://github.com/Kalippan-minnu/Saniya/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Kalippan-minnu/saniya?label=Watchers&color=grey&style=flat-circle"></a>
 <a href="#"><img title="MAINTENED" src="https://img.shields.io/badge/UNMAINTENED-YES-red.svg"</a>
 <h3 align="center">Contact Me:</h3>
 
@@ -43,7 +43,7 @@ Project created by <a href="https://github.com/Kalippan-minnu">Midhun</a> to mak
     
 <p align="center">
 
-<a href="https://instagram.com/__ajuz___001?utm_medium=copy_link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="kyrie.baran" height="30" width="40" /></a>
+<a href="https://instagram.com/kalippan_ser?utm_medium=copy_link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="kyrie.baran" height="30" width="40" /></a>
 
 </p>
 
@@ -51,16 +51,16 @@ Project created by <a href="https://github.com/Kalippan-minnu">Midhun</a> to mak
 
 <p align="center">
 
-<a href="https://youtu.be/MPoRRTkjuW0" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Logo_of_YouTube_%282015-2017%29.svg/1200px-Logo_of_YouTube_%282015-2017%29.svg.png" height="45" width="90" /></a>
+<a href="https://youtube.com/channel/UC0yNrBziB3u2hzvXzJ4NnTA" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Logo_of_YouTube_%282015-2017%29.svg/1200px-Logo_of_YouTube_%282015-2017%29.svg.png" height="45" width="90" /></a>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aju001&show_icons=true&theme=dark&locale=en" alt="aju" /></p>
     
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aju001&theme=dark" alt="aju" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aju001&theme=dark" alt="Midhun" /></p>
 </p>
     
 ```
     
-Ajuser Userbot is Open Source software open to development. 
+Saniya mol Userbot is Open Source software open to development. 
 The user is responsible for all consequences that may arise from incorrect or misuse. 
 Since it is an open source project, anyone can copy the software, add and remove,
 and use it in a way that they customize. In addition, plug-in support enables users to 
@@ -83,7 +83,7 @@ the user is responsible..
   
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@aju0011/Ajuser-Qr)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/aju001/Ajuser)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Kalippan-minnu/Saniya)
      </div>
      [![Run on Repl.it](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)](https://bit.ly/2XqQKMU)
  
@@ -101,8 +101,8 @@ GET QR
 $ apt update
 $ apt install nodejs --fix-missing
 $ pkg install git
-$ git clone https://github.com/aju001/Ajuser
-$ cd Ajuser
+$ git clone https://github.com/Kalippan-minnu/Saniya
+$ cd Saniya mol
 $ chmod +x *
 $ npm install @adiwajshing/baileys
 $ npm install chalk
@@ -111,8 +111,8 @@ $ node qr.js
       
 ```js
 SETUP
-$ git clone https://github.com/aju001/Ajuser
-$ cd Ajuser
+$ git clone https://github.com/Kalippan-minnu/Saniya
+$ cd Saniya mol
 $ chmod +x *
 $ npm i
 $ node qr.js

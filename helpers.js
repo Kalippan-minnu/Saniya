@@ -23,7 +23,7 @@ function errorMessage(msg) {
     return "🛑 *Saniya*:  ```" + msg + "```"
 }
 function infoMessage(msg) {
-    return "⏺️ *Saniys*:  ```" + msg + "```"
+    return "⏺️ *Saniya*:  ```" + msg + "```"
 }
 
 
